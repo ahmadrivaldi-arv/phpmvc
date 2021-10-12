@@ -1,0 +1,37 @@
+/*
+| 10-10-2021
+|--------------------------------------------
+| The structure folder App
+|--------------------------------------------
+|
+*/
+
+
+
+.
+├── app
+│   ├── controllers
+│   ├── core
+│   ├── models
+│   └── views
+│       ├── about
+│       ├── greating
+│       ├── home
+│       ├── mahasiswa
+│       └── templates
+└── public
+    ├── css
+    ├── fontawesome
+    │   ├── css
+    │   ├── js
+    │   ├── less
+    │   ├── metadata
+    │   ├── scss
+    │   ├── sprites
+    │   ├── svgs
+    │   │   ├── brands
+    │   │   ├── regular
+    │   │   └── solid
+    │   └── webfonts
+    ├── img
+    └── js
